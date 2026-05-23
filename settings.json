@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Lovei2011.aternos.me",
-    "port": 11673,
+    "ip": "Lovei2011_.aternos.me",
+    "port": 26802,
     "version": "",
     "try-creative": false
   },
@@ -32,8 +32,8 @@
       "repeat-delay": 60,
       "messages": [
         "Ich bin ein Ganz Normaler spieler",
-        "/give Lovei2011 minecraft:diamond",
-        "Ich werde nicht off gehen"
+        "/tellraw @a {"text":"Lovei2011 joined the game","color":"yellow"}",
+        "/tellraw @a {"text":"Lovei2011 left the game","color":"yellow"}"
       ]
     },
     "chat-log": true,
