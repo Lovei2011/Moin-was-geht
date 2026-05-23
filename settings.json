@@ -32,8 +32,8 @@
       "repeat-delay": 60,
       "messages": [
         "Ich bin ein Ganz Normaler spieler",
-        "/tellraw @a {"text":"Lovei2011 joined the game","color":"yellow"}",
-        "/tellraw @a {"text":"Lovei2011 left the game","color":"yellow"}"
+        "Was machst du so?",
+        "Ich werde nicht off gehen"
       ]
     },
     "chat-log": true,
